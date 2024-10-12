@@ -1,0 +1,25 @@
+c:\users\pc\documents\visual studio 2015\Projects\s09p23\s09p23\bin\Debug\s09p23.exe
+c:\users\pc\documents\visual studio 2015\Projects\s09p23\s09p23\bin\Debug\s09p23.pdb
+c:\users\pc\documents\visual studio 2015\Projects\s09p23\s09p23\obj\Debug\s09p23.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\s09p23\s09p23\obj\Debug\s09p23.Form1.resources
+c:\users\pc\documents\visual studio 2015\Projects\s09p23\s09p23\obj\Debug\s09p23.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2015\Projects\s09p23\s09p23\obj\Debug\s09p23.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2015\Projects\s09p23\s09p23\obj\Debug\s09p23.exe
+c:\users\pc\documents\visual studio 2015\Projects\s09p23\s09p23\obj\Debug\s09p23.pdb
+C:\Users\pc\Documents\UPN\Estructura de datos\semana 9\s09p23\s09p23\obj\Debug\s09p23.exe
+C:\Users\pc\Documents\UPN\Estructura de datos\semana 9\s09p23\s09p23\obj\Debug\s09p23.pdb
+C:\Users\pc\Documents\UPN\Estructura de datos\semana 9_\s09p23\s09p23\obj\Debug\s09p23.exe
+C:\Users\pc\Documents\UPN\Estructura de datos\semana 9_\s09p23\s09p23\obj\Debug\s09p23.pdb
+C:\Users\pc\Documents\UPN\Estructura de datos\semana 9_\s09p23\s09p23\bin\Debug\s09p23.exe
+C:\Users\pc\Documents\UPN\Estructura de datos\semana 9_\s09p23\s09p23\bin\Debug\s09p23.pdb
+C:\Users\pc\Documents\UPN\Estructura de datos\semana 9_\s09p23\s09p23\obj\Debug\s09p23.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\UPN\Estructura de datos\semana 9_\s09p23\s09p23\obj\Debug\s09p23.Form1.resources
+C:\Users\pc\Documents\UPN\Estructura de datos\semana 9_\s09p23\s09p23\obj\Debug\s09p23.Properties.Resources.resources
+C:\Users\pc\Documents\UPN\Estructura de datos\semana 9_\s09p23\s09p23\obj\Debug\s09p23.csproj.GenerateResource.Cache
+C:\Users\pc\Documents\UPN\Estructura de datos\semana 9\s09p23\s09p23\bin\Debug\s09p23.exe
+C:\Users\pc\Documents\UPN\Estructura de datos\semana 9\s09p23\s09p23\bin\Debug\s09p23.pdb
+C:\Users\pc\Documents\UPN\Estructura de datos\semana 9\s09p23\s09p23\obj\Debug\s09p23.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\UPN\Estructura de datos\semana 9\s09p23\s09p23\obj\Debug\s09p23.Form1.resources
+C:\Users\pc\Documents\UPN\Estructura de datos\semana 9\s09p23\s09p23\obj\Debug\s09p23.Properties.Resources.resources
+C:\Users\pc\Documents\UPN\Estructura de datos\semana 9\s09p23\s09p23\obj\Debug\s09p23.csproj.GenerateResource.cache
+C:\Users\pc\Documents\UPN\Estructura de datos\semana 9\s09p23\s09p23\obj\Debug\s09p23.csproj.CoreCompileInputs.cache
